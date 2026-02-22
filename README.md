@@ -14,7 +14,7 @@
 
 # ⚡ TECH ARSENAL
 
-### 🚀 Frontend
+###  Frontend
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55"/>
@@ -25,7 +25,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="55"/>
 </p>
 
-### ⚙ Backend
+###  Backend
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="55"/>
@@ -33,7 +33,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="55"/>
 </p>
 
-### 🗄 Databases
+###  Databases
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55"/>
@@ -42,50 +42,37 @@
 
 ---
 
-# 📊 PERFORMANCE MATRIX
+#  PERFORMANCE MATRIX
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pradip021&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pradip021&theme=radical&hide_border=true&background=0D1117"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradip021&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
-</p>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=header"/>
 
 # 🐍 CONTRIBUTION EVOLUTION
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pradip021/pradip021/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/pradip021/pradip021/output/snake.svg" width="100%"/>
 </p>
 
 ---
 
-# 🎵 CURRENTLY PLAYING ON SPOTIFY
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+
+# 🎧 LIVE MUSIC FEED
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31knashoq7ibqat7pkz56vkouojy&cover_image=true&theme=novatorem"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31knashoq7ibqat7pkz56vkouojy&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117" width="450"/>
 </p>
 
 ---
 
-# 📰 LATEST BLOG POSTS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=3"/>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-# 💻 MATRIX MODE
+# 💻 MATRIX TERMINAL
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="750"/>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pradip021&color=blueviolet&style=for-the-badge"/>
-</p>
