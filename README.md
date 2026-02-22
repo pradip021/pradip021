@@ -1,62 +1,91 @@
-<h1 align="center">Pradip Pal</h1>
-<h3 align="center">Full Stack Engineer | .NET API Developer | Android (Kotlin) | Tech Mentor | SSB Aspirant</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pradip021/pradip021/main/banner.png" />
+</p>
 
----
-
-## 🚀 About Me
-
-- Building scalable web & mobile applications
-- Teaching HTML, CSS, JS, React, Angular, Node
-- Working with MERN, MEAN & .NET Web API
-- Preparing for Armed Forces Selection (SSB)
-- Focused on discipline, consistency & growth
-
----
-
-## 🧠 Tech Stack
-
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=PRADIP+PAL;FULL+STACK+ENGINEER;REACT+%7C+ANGULAR+%7C+ANDROID;NODE+%7C+.NET+CORE+%7C+KOTLIN" />
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradip021&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradip021&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 </p>
 
 ---
 
-## 🔥 Featured Projects
+# ⚡ TECH ARSENAL
 
-- Attendance Portal (C# + SQL)
-- Hostel Management System (.NET + MySQL)
-- MERN CRUD System with JWT Authentication
-- Angular Enterprise Dashboard
+### 🚀 Frontend
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="55"/>
+</p>
+
+### ⚙ Backend
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="55"/>
+</p>
+
+### 🗄 Databases
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55"/>
+</p>
 
 ---
 
-## 🎯 2026 Mission
+# 📊 PERFORMANCE MATRIX
 
-- Daily commits
-- Build production-grade projects
-- Strengthen DSA & System Design
-- Contribute to open-source
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pradip021&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pradip021&theme=radical&hide_border=true&background=0D1117"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradip021&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+</p>
 
 ---
 
-## 📫 Connect
+# 🐍 CONTRIBUTION EVOLUTION
 
-Email: deepakpal8530@gmail.com
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pradip021/pradip021/output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+# 🎵 CURRENTLY PLAYING ON SPOTIFY
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31knashoq7ibqat7pkz56vkouojy&cover_image=true&theme=novatorem"/>
+</p>
+
+---
+
+# 📰 LATEST BLOG POSTS
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+# 💻 MATRIX MODE
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pradip021&color=blueviolet&style=for-the-badge"/>
+</p>
