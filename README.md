@@ -69,28 +69,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradip021&theme=react-dark&bg_color=0D1117&hide_border=true&line=00F7FF&point=8A2BE2"/>
 </p>
 
----
+ 
+ 
 
-# ACHIEVEMENT MATRIX
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pradip021&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-#  TERMINAL MODE
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="900"/>
-</p>
----
-# 🟢 TERMINAL MODE
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="900"/>
-</p>
----
 
 #  DAILY DEV QUOTE
 
