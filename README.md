@@ -12,7 +12,7 @@
 
 ---
 
-# ⚡ TECH ARSENAL
+#  TECH ARSENAL
 
 ###  Frontend
 <p align="center">
@@ -59,17 +59,50 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 
-# 🎧 LIVE MUSIC FEED
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+
+#  3D CONTRIBUTION MAP
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31knashoq7ibqat7pkz56vkouojy&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117" width="450"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradip021&theme=react-dark&bg_color=0D1117&hide_border=true&line=00F7FF&point=8A2BE2"/>
+</p>
+
+---
+
+# ACHIEVEMENT MATRIX
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pradip021&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+#  TERMINAL MODE
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="900"/>
+</p>
+---
+# 🟢 TERMINAL MODE
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="900"/>
+</p>
+---
+
+#  DAILY DEV QUOTE
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=3"/>
 
-# 💻 MATRIX TERMINAL
+#  MATRIX TERMINAL
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="750"/>
